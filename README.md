@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedLempo
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Java
+- 🌱 I’m a Java & Kotlin developer
 - 📫 for connecting : am8064671@gmail.com
 
 <!---
