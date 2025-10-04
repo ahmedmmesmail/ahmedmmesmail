@@ -1,24 +1,25 @@
-name: Generate Pacman Graph
+name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   
-  workflow_dispatch:       
+    - cron: "0 0 * * *"   # يشتغل كل يوم الساعة 00:00 UTC
+  workflow_dispatch:       # يسمحلك تشغله يدوي من Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Generate Pacman graph
+      - name: Generate pacman graph
         uses: vdra/gh-pacman@main
         with:
-          user: ahmedmmesmail   
+          user: ahmedmmesmail   # ← غيرها لاسم حسابك في GitHub
+          output: output/pacman-contribution-graph.svg
 
-      - name: Commit pacman.svg
+      - name: Commit pacman graph
         uses: EndBug/add-and-commit@v9
         with:
-          add: "pacman.svg"
-          message: "update pacman"
+          add: "output/pacman-contribution-graph.svg"
+          message: "Update pacman contribution graph"
