@@ -16,8 +16,11 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages, Skills and Tools</b>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,cpp,python" /><br>
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50" alt="jetpackcompose logo"  />
+   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="microsoftsqlserver logo"  />
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,python" /><br>
+    <img src="https://skillicons.dev/icons?i=github,vscode,sqlite" />
    <img src="https://skillicons.dev/icons?i=firebase,gradle,idea"/>
 </div>
 
@@ -27,11 +30,11 @@
 <div align='left'>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="56" height="40" />
+  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="66" height="50" />
   </a>
-  <a href="mailto:ahmedmme.26@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"  width="56" height="40"/>
+  <a href="mailto:ahmedmme.26@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"  width="66" height="50"/>
   </a>
-  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=instagram"  width="56" height="40"/>
+  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=instagram"  width="66" height="50"/>
   </a>
   </div>
 
@@ -47,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="56" height="40" alt="hackerrank logo"  />
   </a>
   <a href="https://stackoverflow.com/users/20845756/ahmed-esmail" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="56" height="40" alt="stackoverflow logo"  />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="56" height="40" alt="stackoverflow logo"  />
     
   </a>
 </div>
