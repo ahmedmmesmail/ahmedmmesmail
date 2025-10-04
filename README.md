@@ -60,14 +60,11 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedEsmail/<repo-name>/main/pacman.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-dark.svg">
+    <img src="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-light.svg" alt="Pac-Man Contribution Graph"/>
+  </picture>
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
