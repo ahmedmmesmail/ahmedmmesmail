@@ -59,12 +59,6 @@
 
 ###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-dark.svg">
-    <img src="https://raw.githubusercontent.com/ahmedmmesmail/ahmedmmesmail/output/pacman-light.svg" alt="Pac-Man Contribution Graph"/>
-  </picture>
-</p>
 
 
 ###
