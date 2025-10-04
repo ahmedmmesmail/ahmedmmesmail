@@ -27,11 +27,11 @@
 <div align='left'>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmedmmesmail/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="56" height="40" />
   </a>
-  <a href="mailto:ahmedmme.26@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"  />
+  <a href="mailto:ahmedmme.26@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"  width="56" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=instagram"  width="56" height="40"/>
   </a>
   </div>
 
@@ -42,6 +42,7 @@
 <div align='left'>
 
 <div align="center">
+
   <a href="https://www.hackerrank.com/profile/am8064671" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="56" height="40" alt="hackerrank logo"  />
   </a>
@@ -53,45 +54,7 @@
 
 ## <b>🚀Samples From My Projects</b>
 <br>
-### Trato | تراتو
-Hello My New Baby 😂❤
-
-Proud of My Achievement ! 💪 فخور بإنجازي
-
-Trato application. A smart and free guide to instant discounts.
-
-Trato is an app that provides amazing offers and instant discounts throughout the year, as well as a free smart guide to get anywhere easily.
-
-This is the first version of the application, and we are working hard to develop it and add more great features in the future
-
-Discounts on your favorite products from the largest stores and brands in Egypt, exclusive offers not available anywhere else, valuable gifts when purchasing through the application, a free smart guide to get anywhere easily, complete information about shopping centers, supermarkets, schools, Clubs, and many more,
-
-To enjoy more benefits, you can subscribe to the “Trato Premium” service for an annual subscription fee
-
-Amazing, unparalleled offers, instant discounts ⚡ on all your purchases, electronic vouchers for use in your favorite stores..
-
-تطبيق تراتو. دليل ذكي ومجاني للخصومات الفورية.<br>
-بعد شهرين من العمل الدؤوب ، اقدم لكم تطبيق تراتو في نسخته الأولي 
-
-تراتو هو تطبيق يوفر عروضًا مذهلة وخصومات فورية على مدار العام، بالإضافة إلى دليل ذكي مجاني للوصول إلى أي مكان بسهولة.
-
-هذه هي النسخة الأولى من التطبيق، ونعمل بجد على تطويره وإضافة المزيد من الميزات الرائعة في المستقبل
-
-خصومات على منتجاتك المفضلة من أكبر المتاجر والعلامات التجارية في مصر،
-عروض حصرية غير متوفرة في أي مكان آخر،
-هدايا قيمة عند الشراء من خلال التطبيق،
-دليل ذكي ️مجاني للوصول إلى أي مكان بسهولة،
-معلومات كاملة عن مراكز التسوق، محلات السوبر ماركت، المدارس، النوادي، وغيرها الكثير،
-
-للتمتع بالمزيد من المزايا يمكنك الأشتراك في خدمة "تراتو بريميوم" مقابل رسوم اشتراك سنوية
-
-عروض مذهلة لا مثيل لها
-خصومات فورية ⚡ على جميع مشترياتك
-قسائم شراء إلكترونية للاستخدام في متاجرك المفضلة..
-
-<p>
-
-<p>
-
+<h3>Al-Dunya Ayh</h3>
+  
 <hr>
 
