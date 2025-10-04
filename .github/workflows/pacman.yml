@@ -1,0 +1,24 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   
+  workflow_dispatch:       
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate Pacman graph
+        uses: vdra/gh-pacman@main
+        with:
+          user: ahmedmmesmail   
+
+      - name: Commit pacman.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "pacman.svg"
+          message: "update pacman"
