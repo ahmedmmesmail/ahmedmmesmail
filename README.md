@@ -30,11 +30,11 @@
 <div align='left'>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="66" height="50" />
+  <a href="https://linkedin.com/in/ahmedmmesmail" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="66" height="50" />
   </a>
   <a href="mailto:ahmedmme.26@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"  width="66" height="50"/>
   </a>
-  <a href="https://linkedin.com/in/ahmedmmesmail" target="blank"><img src="https://skillicons.dev/icons?i=instagram"  width="66" height="50"/>
+  <a href="https://www.instagram.com/ahmed.mm.esmail/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"  width="66" height="50"/>
   </a>
   </div>
 
