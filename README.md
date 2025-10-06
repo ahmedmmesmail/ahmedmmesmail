@@ -62,7 +62,7 @@
 
 Development Highlights: Built with Kotlin, using Retrofit for API integration and RecyclerView for dynamic content rendering. Implemented Dark/Light mode, Swipe-to-Refresh, and error handling for a polished user experience. Focused on writing clean, maintainable code and following MVVM architecture for scalability and clarity.
 </p>
-<a href="https://github.com/ahmedmmesmail/" target="_blank"> <p>repo link</p> </a>
+<a href="https://github.com/ahmedmmesmail/NewsWide" target="_blank"> <p>repo link</p> </a>
   
 <hr>
 
