@@ -57,7 +57,12 @@
 
 ## <b>🚀Samples From My Projects</b>
 <br>
-<h3>Al-Dunya Ayh</h3>
+<h3>Al-Dunya Ayh (NewsWide)</h3>
+<p>Project Overview: Newsly is a modern Android app that delivers real-time news headlines and accurate weather updates in one seamless experience. It features a clean, minimal interface designed for fast browsing and easy readability.
+
+Development Highlights: Built with Kotlin, using Retrofit for API integration and RecyclerView for dynamic content rendering. Implemented Dark/Light mode, Swipe-to-Refresh, and error handling for a polished user experience. Focused on writing clean, maintainable code and following MVVM architecture for scalability and clarity.
+</p>
+<a href="https://github.com/ahmedmmesmail/" target="_blank"> <p>repo link</p> </a>
   
 <hr>
 
