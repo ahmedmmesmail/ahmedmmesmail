@@ -56,7 +56,7 @@
 </div>
 
 ## <b>🚀Samples From My Projects</b>
-### 🧭 KiloProject
+### 🧭 KiloProject ***(album)***
 
 **Overview:**  
 KiloProject is a multi-phase journey that showcases my growth as a developer — from desktop to Android systems.  
