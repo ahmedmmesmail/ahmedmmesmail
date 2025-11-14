@@ -59,8 +59,8 @@
 ### 🧭 KiloProject ***(album)***
 
 **Overview:**  
-KiloProject is a multi-phase journey that showcases my growth as a developer — from desktop to Android systems.  
-Phase 1 focuses on mastering fundamentals like clean architecture, responsive UI, and real-world problem-solving through four complete apps (restaurant, library, notes, and news & weather).  
+KiloProject is a multi-phase journey that showcases my growth as a developer — from desktop to Android systems.
+focuses on mastering fundamentals like clean architecture, responsive UI, and real-world problem-solving through 8 complete apps.  
 
 **Highlights:**  
 Built using `Java`, `Kotlin`, `Swing`, `JavaFX`, `SQL`, and `Firebase`, focusing on scalability, maintainability, and user-centered design.
