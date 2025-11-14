@@ -63,7 +63,7 @@ KiloProject is a multi-phase journey that showcases my growth as a developer —
 focuses on mastering fundamentals like clean architecture, responsive UI, and real-world problem-solving through 8 complete apps.  
 
 **Highlights:**  
-Built using `Java`, `Kotlin`, `Swing`, `JavaFX`, `SQL`, and `Firebase`, focusing on scalability, maintainability, and user-centered design.
+Built using `Java`, `Kotlin`, `HTML`, `CSS`, `JavaScript`, `Swing`, `JavaFX`, `SQL`, and `Firebase`, focusing on scalability, maintainability, and user-centered design.
 
 [🔗 View Repository](https://github.com/ahmedmmesmail/KiloProject)
 
