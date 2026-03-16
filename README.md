@@ -56,7 +56,7 @@
 </div>
 
 ## <b>🚀Samples From My Projects</b>
-## 💚 Motmaan (Awel Qet3a Fanya)
+### 💚 Motmaan (Awel Qet3a Fanya)
 
 ### Overview
 Motmaan is an Islamic Android application designed to help users stay consistent with their daily spiritual practices.  
@@ -67,7 +67,7 @@ Built using modern Android technologies including **Kotlin** and **Jetpack Compo
 The project focuses on building a smooth user experience with support for **Light and Dark Mode** while maintaining clean and maintainable code architecture.
 
 Motmaan represents my first complete real-world Android application developed independently from idea to release.
-
+##
 ### 🧭 KiloProject ***(album)***
 
 **Overview:**  
