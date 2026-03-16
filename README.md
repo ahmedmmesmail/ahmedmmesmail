@@ -67,6 +67,7 @@ Built using modern Android technologies including **Kotlin** and **Jetpack Compo
 The project focuses on building a smooth user experience with support for **Light and Dark Mode** while maintaining clean and maintainable code architecture.
 
 Motmaan represents my first complete real-world Android application developed independently from idea to release.
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.codenytra.amme.motmaan)
 ##
 ### 🧭 KiloProject ***(album)***
 
