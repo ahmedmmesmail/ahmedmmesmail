@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ahmed+Mohamed+Mohamed+Esmail..&hearts;++;Android+App+Developer;Computer+Science+Student;Java+%2B+Kotlin+%3D+%E2%99%A5;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ahmed+Mohamed+Mohamed+Esmail..&hearts;++;Mobile+App+Developer;Computer+Science+Student;Java+%2B+Kotlin+%3D+%E2%99%A5;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
@@ -15,13 +15,24 @@
 ###
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages, Skills and Tools</b>
 <br>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50" alt="jetpackcompose logo"  />
-   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" /><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="microsoftsqlserver logo"  />
-    <img src="https://skillicons.dev/icons?i=html,css,cpp,python" /><br>
-    <img src="https://skillicons.dev/icons?i=github,vscode,sqlite" />
-   <img src="https://skillicons.dev/icons?i=firebase,gradle,idea"/>
+<!-- Game Engines -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo" />
+<br><br>
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/>
+  <br><br>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite,firebase"/>
+  <br><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,gradle,idea"/>
+  <br><br>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,js,html,css,cpp,python"/>
 </div>
 
 ###
