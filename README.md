@@ -1,9 +1,20 @@
-<h1 align="center"><b>Hi , I'm Ahmed Esmail </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center">
+  <b>Hi , I'm Ahmed Esmail </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ahmed+Mohamed+Mohamed+Esmail..&hearts;++;Mobile+App+Developer;Computer+Science+Student;Java+%2B+Kotlin+%3D+%E2%99%A5;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+App+Developer;AI+%26+ML+Enthusiast;Computer+Science+Student;Java+%2B+Kotlin+%3D+%E2%99%A5;Active+Learner+%26+Researcher;Always+Learning+Something+New+%3C3">
   </a>
+</p>
+
+
+<p align="center">
+  <b>With great code comes great power 🕷️</b>
 </p>
 
 <p align="center">
